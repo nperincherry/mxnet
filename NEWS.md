@@ -29,6 +29,7 @@ MXNet Change Log
   - [Detection](https://github.com/dmlc/mxnet/tree/master/example/rcnn), RCNN bt @precedenceguo
   - [Segmentation](https://github.com/dmlc/mxnet/tree/master/example/fcn-xs), FCN by @tornadomeet
   - [Face identification](https://github.com/tornadomeet/mxnet-face) by @tornadomeet
+  - [DCGAN](https://github.com/dmlc/mxnet/tree/master/example/gan) by @piiswrong
 
 ## v0.5 (initial release)
 - All basic modules ready
