@@ -58,7 +58,8 @@ Features
 
 Ask Questions
 -------------
-* Please use [mxnet/issues](https://github.com/dmlc/mxnet/issues) for how to use mxnet and reporting bugs 
+* Please use [mxnet/issues](https://github.com/dmlc/mxnet/issues) for how to use mxnet and reporting bugs
+* Just adding a random bullet point for demonstration purposes
 
 License
 -------
